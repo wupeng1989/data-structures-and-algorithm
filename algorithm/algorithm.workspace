@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="algorithm" Database="" Version="10.0.0">
+  <Project Name="link_list" Path="link_list/link_list.project" Active="No"/>
+  <Project Name="binary_tree" Path="binary_tree/binary_tree.project" Active="No"/>
+  <Project Name="recursive" Path="recursive/recursive.project" Active="No"/>
+  <Project Name="graph" Path="graph/graph.project" Active="No"/>
+  <Project Name="misc" Path="misc/misc.project" Active="Yes"/>
+  <Project Name="stack_queue" Path="stack_queue/stack_queue.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="recursive" ConfigName="Debug"/>
+      <Project Name="link_list" ConfigName="Debug"/>
+      <Project Name="binary_tree" ConfigName="Debug"/>
+      <Project Name="graph" ConfigName="Debug"/>
+      <Project Name="misc" ConfigName="Debug"/>
+      <Project Name="stack_queue" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="recursive" ConfigName="Release"/>
+      <Project Name="link_list" ConfigName="Release"/>
+      <Project Name="binary_tree" ConfigName="Release"/>
+      <Project Name="graph" ConfigName="Release"/>
+      <Project Name="misc" ConfigName="Release"/>
+      <Project Name="stack_queue" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
